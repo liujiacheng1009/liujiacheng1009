@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">👋 Hello there! I'm Derek</h1>
+<h1 align="left" id="macropower-title">👋 Hello there! I'm jc</h1>
 <p align="left">
   <a href="https://github.com/td092">
     <img src="https://komarev.com/ghpvc/?username=td092" alt="page views">
