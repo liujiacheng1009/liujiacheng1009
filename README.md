@@ -15,5 +15,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=liujiacheng1009&show_icons=true" alt="liujiacheng1009" align="right" />
 </a>
 
-- 🏠 I’m currently living at Shenzhen City, China.
+- 🏠 I’m currently living in Shenzhen City, China.
 - 👨‍💻 I’m currently working as a SLAM Engineer.
